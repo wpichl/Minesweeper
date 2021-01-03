@@ -1,6 +1,6 @@
 # Minesweeper SDL
 <img align="right" src="demo.png" height="336" width="321">
-Retake of the old Windows NT 3.1 version written in C powered by SDL2  
+Retake of the old Windows NT 3.1 version written in C powered by SDL2<br/>
 Minesweeper for versions of Windows protects the first square revealed from Windows Vista onward, players may elect to replay a board, in which the game is played by revealing squares of the grid by clicking or otherwise indicating each square. If a square containing a mine is revealed, the player loses the game. If no mine is revealed, a digit is instead displayed in the square, indicating how many adjacent squares contain mines, if no mines are adjacent, the square becomes blank, and all adjacent squares will be recursively revealed. The player uses this information to deduce the contents of other squares and may either safely reveal each square or mark the square as containing a mine. 
 
 # Installation
